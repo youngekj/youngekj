@@ -1,5 +1,5 @@
 ### Hi there, 👋
-My name is Kyle and I am a current Aerospace Engineering student at Iowa State University. I am currently taking AerE 361 which is teaching me all about Git and Github!!!
+My name is Kyle and I am a current Aerospace Engineering student at Iowa State University. I am currently taking AerE 361 which is teaching me all about Git and Github! I am interested in learning more about high power computing and data management for these types of machines. Currently I am working on learning Python since I know Matlab fairly well but want to have a grasp on Python since it's an industry standard for the most part. When I'm not studying or working, I love to ski, hike, and travel.
 <!--
 **youngekj/youngekj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
