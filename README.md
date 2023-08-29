@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, 👋
+My name is Kyle and I am a current Aerospace Engineering student at Iowa State University
+I am currently taking AerE 361 which is teaching me all about Git and Github!!!
 <!--
 **youngekj/youngekj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
